@@ -17,7 +17,7 @@ Welcome to my personal portfolio — a fully responsive, animated website built 
 
 ### 📸 Live Demo
 
-🔗 https://alex-portfolio.vercel.app  
+🔗 [link not yet available]
 🚀 Deployed via [Vercel](https://vercel.com)
 
 ---
